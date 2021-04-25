@@ -918,7 +918,9 @@ footer.copyright a {
   section.big-deal .timer {
     margin-right: -0.5rem;
   }
-
+  section.about-meal .container {
+    padding: 0 1rem;
+  }
   section.subscribe .container {
     flex-direction: column;
     padding: 0.5rem;
